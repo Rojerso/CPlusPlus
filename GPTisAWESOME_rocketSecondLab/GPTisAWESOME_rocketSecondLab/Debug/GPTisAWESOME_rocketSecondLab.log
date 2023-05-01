@@ -1,0 +1,5 @@
+﻿  Source1.cpp
+C:\Users\Rome\source\repos\GPTisAWESOME_rocketSecondLab\GPTisAWESOME_rocketSecondLab\Source1.cpp(9,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rome\source\repos\GPTisAWESOME_rocketSecondLab\GPTisAWESOME_rocketSecondLab\Source1.cpp(32,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Rome\source\repos\GPTisAWESOME_rocketSecondLab\GPTisAWESOME_rocketSecondLab\Source1.cpp(98,82): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+  GPTisAWESOME_rocketSecondLab.vcxproj -> C:\Users\Rome\source\repos\GPTisAWESOME_rocketSecondLab\Debug\GPTisAWESOME_rocketSecondLab.exe
